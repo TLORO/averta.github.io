@@ -1,0 +1,52 @@
+@font-face {
+    font-family: 'AvertaPE';
+    src: url('AvertaPE-Light.eot');
+    src: url('AvertaPE-Light.eot?#iefix') format('embedded-opentype'),
+        url('AvertaPE-Light.woff2') format('woff2'),
+        url('AvertaPE-Light.woff') format('woff'),
+        url('AvertaPE-Light.ttf') format('truetype'),
+        url('AvertaPE-Light.svg#AvertaPE-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'AvertaPE';
+    src: url('AvertaPE-Extrabold.eot');
+    src: url('AvertaPE-Extrabold.eot?#iefix') format('embedded-opentype'),
+        url('AvertaPE-Extrabold.woff2') format('woff2'),
+        url('AvertaPE-Extrabold.woff') format('woff'),
+        url('AvertaPE-Extrabold.ttf') format('truetype'),
+        url('AvertaPE-Extrabold.svg#AvertaPE-Extrabold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'AvertaPE';
+    src: url('AvertaPE-LightItalic.eot');
+    src: url('AvertaPE-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('AvertaPE-LightItalic.woff2') format('woff2'),
+        url('AvertaPE-LightItalic.woff') format('woff'),
+        url('AvertaPE-LightItalic.ttf') format('truetype'),
+        url('AvertaPE-LightItalic.svg#AvertaPE-LightItalic') format('svg');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'AvertaPE';
+    src: url('AvertaPE-Bold.eot');
+    src: url('AvertaPE-Bold.eot?#iefix') format('embedded-opentype'),
+        url('AvertaPE-Bold.woff2') format('woff2'),
+        url('AvertaPE-Bold.woff') format('woff'),
+        url('AvertaPE-Bold.ttf') format('truetype'),
+        url('AvertaPE-Bold.svg#AvertaPE-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
